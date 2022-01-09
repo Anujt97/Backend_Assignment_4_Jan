@@ -1,0 +1,33 @@
+Assingment :-
+
+Functional Requirement
+
+- User registration and login
+- All Question asked and Answer 
+- Updated Answer 
+- Updated Questions
+- Ask Question 
+- Give Answer 
+- Helpful 👍🏻(Answers)
+- Not helpful👎🏻(Answer)
+- Comments for the Answer
+- Delete Question and Answer
+- Trending Questions
+- Categories of Question
+
+
+Non Functional requirement
+
+- Highly Scalable
+- Trending on the basis of categories
+- Ask Question in Groups 
+- Answer Question in groups
+- Preventing same Multiple Questions(using keywords detection)
+
+
+Additional Requirement
+
+- Creating Organisations for Particular Categories(like:- Technology, Science, etc….)
+- Login from social media account
+- Priority to the question
+- Priority to the answer on the basis of Helpful
